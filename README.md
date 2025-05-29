@@ -62,7 +62,7 @@ Se o comando for aceito você verá uma resposta iniciando com `220`.
 | 5 | `mail from:<qualquercoisa@aulasrede.com.br>` | `250 2.1.0 OK` | Define remetente. |
 | 6 | `rcpt to:<claudio.nunes6@fatec.sp.gov.br>` | `250 2.1.5 OK` | Define destinatário. |
 | 7 | `data` | `354 End data with <CR><LF>.<CR><LF>` | Inicia o corpo da mensagem. |
-| 8 | @Subject: Teste SMTP via comandos <br>Este e‑mail foi enviado manualmente via SMTP <br> . <br>| `250 2.0.0 Message queued` | Um ponto sozinho finaliza o envio. |
+| 8 | Subject: Teste SMTP via comandos <br>Este e‑mail foi enviado manualmente via SMTP <br> . <br>| `250 2.0.0 Message queued` | Um ponto sozinho finaliza o envio. |
 | 9 | `quit` | `221 2.0.0 Bye` | Encerra a sessão SMTP. |
 
 ---
