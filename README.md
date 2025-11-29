@@ -39,7 +39,7 @@ Se o comando for aceito você verá uma resposta iniciando com `220`.
 
 ### 2.2 Usando PuTTY (alternativa para Windows)
 
-1. Baixe o executável portátil de PuTTY em <https://www.putty.org> (não requer instalação).  
+1. Baixe o executável portátil de PuTTY em [Putty download](<https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html>) (não requer instalação).  
 2. Abra **putty.exe**.  
 3. Em **Session**:  
    * **Host Name**: `in-v3.mailjet.com`  
@@ -79,8 +79,7 @@ Se o comando for aceito você verá uma resposta iniciando com `220`.
 
 1. Abra o terminal (Telnet ou PuTTY) em tela cheia para exibir todo o diálogo.  
 2. Faça uma **captura de tela** contendo do primeiro `220` até o `quit`.  
-3. Salve em PDF ou insira no Word e exporte para PDF.  
-4. Nomeie o arquivo como `atividade_SMTP_seuNomeCompleto.pdf`.
+3. Anexe esta imagem na tarefa do TEAMS 
 
 ---
 
